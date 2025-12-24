@@ -1,3 +1,12 @@
+# Saves
+*.csv
+
+# venv folders
+mal_api/
+
+# Other
+test.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
